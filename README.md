@@ -1,5 +1,7 @@
 # Sales-and-Profit-Performance-Dashboard
 This project demonstrates the use of Tableau to analyze and visualize sales and profit data, enabling insights into business performance. The primary goal is to teach data enthusiasts how to explore, clean, and transform raw data into actionable visualizations, culminating in an interactive dashboard for stakeholder decision-making.
+![image](https://github.com/user-attachments/assets/796ae11d-85cc-4bb4-9f92-21353c79fbff)
+
 
 1. **Project Highlights**
 Data Understanding and Preparation:
