@@ -1,0 +1,52 @@
+Data Exploration & Initial Analysis
+
+1. Create a Line Chart for Sales and Profit Trends Over Time:
+      ●	X-Axis: Order Date (aggregated by Month or Year).
+      ●	Y-Axis: Sales and Profit.
+      ●	Insight: Identify which periods have the highest or lowest sales and profits.
+
+2. Create a Bar Chart for Profit by Region and Category:
+      ●	X-Axis: Order Region.
+      ●	Y-Axis: Sum of Profit.
+      ●	Color: Category Name to break down profits by product category.
+      ●	Insight: See which regions and product categories are the most profitable.
+
+3. Create a Stacked Bar Chart for Sales by Customer Segment:
+      ●	X-Axis: Customer Segment.
+      ●	Y-Axis: Sum of Sales.
+      ●	Color: Order Region to evaluate regional sales trends.
+      ●	Insight: Assess which customer segments are driving sales.
+
+4. Scatter Plot for Order Quantity vs. Profit Margin:
+      ●	X-Axis: Order Quantity.
+      ●	Y-Axis: Profit Margin.
+      ●	Size: Sales.
+      ●	Insight: Explore if larger orders tend to have higher or lower profit margins.
+
+5. Bar Chart for Profit by Product Category:
+      ●	X-Axis: Total Profit.
+      ●	Y-Axis: Category Name.
+      ●	Insight: Identify which categories are driving profitability and which need attention.
+
+6. Scatter Plot for Product Price vs. Sales:
+      ●	X-Axis: Product Price.
+      ●	Y-Axis: Sales.
+      ●	Insight: Investigate the correlation between product price and sales volume.
+
+Building an Interactive Dashboard
+Combine all visualizations into a comprehensive dashboard for stakeholders
+
+1. Layout and Design:
+      ●	Organize your charts in a clean, easy-to-follow layout.
+      ●	Use filters to allow viewers to interact with the dashboard and view different segments of data.
+
+2. KPI Indicators:
+      ●	Add key performance indicators (KPIs) like Total Sales, Total Profit, and Average Profit Margin for a quick overview.
+
+3. Filters:
+      ●	Add filters for Customer Segment, Region, and Category Name so users can explore the data by different dimensions.
+      ●	Include a time filter based on Order Date to allow users to see sales trends over time.
+
+4. Interactivity:
+      ●	Actions: Create dashboard actions that allow users to click on specific regions or categories to update other charts dynamically.
+      ●	Tooltips: Add tooltips to provide more detailed information when users hover over specific data points.
